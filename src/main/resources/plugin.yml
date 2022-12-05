@@ -1,0 +1,10 @@
+name: 5Lives
+version: '${project.version}'
+main: me.thelpro.Lives5
+api-version: 1.19
+commands:
+  lives:
+    description: Check your lives!
+    aliases:
+      - lvs
+      - live
